@@ -1,2 +1,1 @@
-# simongameedu
-simon game
+# simons-game
